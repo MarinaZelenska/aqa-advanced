@@ -1,6 +1,6 @@
 import { Book } from "./Book.js";
 
-class EBook extends Book{
+export class EBook extends Book{
 
     #format;
 

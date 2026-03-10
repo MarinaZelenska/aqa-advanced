@@ -57,10 +57,3 @@ export class Book{
     }
 
 }
-
-
-const test1 = new Book('Test1', 'Author1', 1997);
-const test2 = new Book('Test2', 'Author2', 1998);
-test1.author = 'new author';
-console.log(test1.printInfo());
-console.log(test2.printInfo());
