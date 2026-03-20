@@ -1,9 +1,9 @@
 function square(width, height) {
-  return width * height;
+	return width * height;
 }
 
 const square2 = function (width, height) {
-  return width * height;
+	return width * height;
 };
 
 const square3 = (width, height) => width * height;
