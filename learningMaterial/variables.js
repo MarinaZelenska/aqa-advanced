@@ -1,7 +1,6 @@
-let test; // block scope
-var test1 = 1; // functional scope
-const test2 = 1; // block scope
-
+// let test; // block scope
+// var test1 = 1; // functional scope
+// const test2 = 1; // block scope
 
 /*
 
