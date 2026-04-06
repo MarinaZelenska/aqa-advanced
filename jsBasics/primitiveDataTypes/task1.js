@@ -5,7 +5,6 @@ let customBool = true;
 let customNull = null;
 let customUndefined = undefined;
 
-
 console.log(customString);
 console.log(numberFloat);
 console.log(numberInteger);
